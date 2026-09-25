@@ -1,105 +1,224 @@
-# 👋 Hi, I'm Anuj Dikshit
+::: {align="center"}
 
-### BCA Data Science & AI Student | Aspiring Data Analyst | ML Enthusiast
+👋 Hi, I'm Anuj Dikshit
 
-> I build data-driven projects using Python, SQL, Machine Learning and Data Visualization to solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Anuj+Dikshit;Data+Science+%26+AI+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+Data+Projects" />{=html}
 
----
+<br>{=html}
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=AnujDikshit&label=Profile%20Views&color=0e75b6&style=flat" />{=html}
+:::
 
-- 🎓 BCA Data Science & AI Student
-- 📊 Interested in Data Analytics & Machine Learning
-- 🐍 Working with Python, Pandas & NumPy
-- 🗄️ Practicing SQL & PostgreSQL
-- 📈 Building dashboards and data visualizations
-- 🤖 Exploring Machine Learning & AI
-- 💼 Currently focused on building real-world projects
-- 🚀 Open to internships and entry-level opportunities
+🧑‍💻 About Me
 
----
+class AnujDikshit:
 
-## 🛠️ What I Work With
+    role = "Data Science & AI Student"
 
-### 💻 Languages
+    interests = [
+        "Data Analytics",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Python",
+        "SQL",
+        "Data Visualization"
+    ]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    currently_learning = [
+        "Advanced SQL",
+        "Statistics",
+        "Machine Learning",
+        "Power BI"
+    ]
 
-### 📊 Data Science
+    goal = "Build real-world data products 🚀"
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+🛠️ Tech Stack
 
-### 🤖 Machine Learning
+💻 Languages
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
 
-### 📈 Visualization & BI
+<img src="https://skillicons.dev/icons?i=python,c,mysql" />{=html}
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</p>
 
-### 🧰 Tools
+📊 Data Science & Machine Learning
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,sklearn" />{=html}
 
-## 🔥 Featured Projects
-
-### 🌸 Iris Flower Classification
-
-Machine Learning project for classifying Iris flower species using Python and Scikit-Learn.
-
-**Tech:** Python • Pandas • NumPy • Scikit-Learn • Jupyter Notebook
-
-🔗 [View Project](https://github.com/AnujDikshit/model-iris-classification)
+</p>
 
 
-### 🛒 Customer Shopping Behavior Analysis
-
-End-to-end data analysis project focused on understanding customer purchasing behavior and generating business insights.
-
-**Tech:** Python • SQL • PostgreSQL • EDA • Power BI
-
-🔗 [View Project](https://github.com/AnujDikshit/Customer-Shopping-Behavior-Analysis)
 
 
-### 📊 IBM Cognos Analytics Project
 
-Data analytics project using IBM Cognos Analytics to explore datasets, identify trends and generate analytical insights.
-
-**Tech:** IBM Cognos Analytics • Data Visualization • Business Intelligence
-
-🔗 [View Project](https://github.com/AnujDikshit/IBM_cognos_project)
+📈 Data Visualization & BI
 
 
-### 🤖 Habit Lock
 
-A productivity-focused application designed to help users reduce distractions and build better habits.
 
-**Tech:** HTML • CSS • JavaScript
+🧰 Tools
 
-🔗 [View Project](https://github.com/AnujDikshit/habit-lock)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postgres" />{=html}
 
-## 📚 Currently Learning
+</p>
 
-```text
+🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+🛒 Customer Shopping Behavior Analysis
+
+End-to-end analysis of customer purchasing behavior to discover trends,
+patterns and business insights.
+
+Tech: Python • SQL • PostgreSQL • EDA • Power BI
+
+<a href="https://github.com/AnujDikshit/Customer-Shopping-Behavior-Analysis">{=html}
+View Project → </a>{=html}
+
+</td>
+
+<td width="50%">
+
+🌸 Iris Classification
+
+Machine learning project for classifying Iris flower species using
+Python and Scikit-Learn.
+
+Tech: Python • Pandas • NumPy • Scikit-Learn
+
+<a href="https://github.com/AnujDikshit/model-iris-classification">{=html}
+View Project → </a>{=html}
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+📊 IBM Cognos Analytics
+
+Business intelligence project focused on analytical questions, trends
+and data-driven insights.
+
+Tech: IBM Cognos • Data Visualization • Business Intelligence
+
+<a href="https://github.com/AnujDikshit/IBM_cognos_project">{=html}
+View Project → </a>{=html}
+
+</td>
+
+<td width="50%">
+
+🔒 Habit Lock
+
+A productivity-focused application designed to reduce digital
+distractions and encourage better habits.
+
+Tech: HTML • CSS • JavaScript
+
+<a href="https://github.com/AnujDikshit/habit-lock">{=html} View
+Project → </a>{=html}
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+💻 Application by Quntam Coders
+
+Application development project created as part of an IBM-focused
+project.
+
+<a href="https://github.com/AnujDikshit/application_by_quntam_coders">{=html}
+View Project → </a>{=html}
+
+</td>
+
+</tr>
+
+</table>
+
+📈 GitHub Analytics
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=AnujDikshit&show_icons=true&theme=tokyonight&hide_border=true" />{=html}
+
+<br>{=html}<br>{=html}
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujDikshit&layout=compact&theme=tokyonight&hide_border=true" />{=html}
+
+<br>{=html}<br>{=html}
+
+<img src="https://streak-stats.demolab.com?user=AnujDikshit&theme=tokyonight&hide_border=true" />{=html}
+:::
+
+🐍 Contribution Activity
+
+::: {align="center"}
+<img src="https://raw.githubusercontent.com/AnujDikshit/AnujDikshit/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />{=html}
+:::
+
+📚 Currently Learning
+
 Python
    ↓
 Advanced SQL
    ↓
-Data Analysis
+Data Analytics
    ↓
 Statistics
    ↓
 Machine Learning
    ↓
 Real-World Projects
+   ↓
+Data Analyst / ML Engineer 🚀
+
+🎯 2026 Goals
+
+Master Advanced SQL
+
+Build 5+ Data Analytics Projects
+
+Build 3+ Machine Learning Projects
+
+Improve Python & DSA
+
+Master Power BI
+
+Strengthen Statistics
+
+Contribute to Open Source
+
+Get a Data Analyst / ML Internship
+
+🤝 Let's Connect
+
+::: {align="center"}
+<a href="https://github.com/AnujDikshit">{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}
+</a>{=html}
+:::
+
+::: {align="center"}
+
+💡 Turning data into insights and ideas into projects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer" />{=html}
+:::
