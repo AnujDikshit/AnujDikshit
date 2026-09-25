@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AnujDikshit&label=Profile%20Views&color=58A6FF&style=flat-square"/>
@@ -54,35 +50,51 @@ I'm a **BCA Data Science & AI student** focused on building practical solutions 
 ### 📊 Data Analytics
 
 <p>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 ### 🤖 Machine Learning
 
 <p>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
 </p>
 
 ### 📈 Business Intelligence
 
 <p>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
 </p>
 
 ### 🗄️ Databases
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
 </p>
 
 ### 🛠️ Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </p>
 
 ---
@@ -139,29 +151,37 @@ I'm a **BCA Data Science & AI student** focused on building practical solutions 
 
 ---
 
-# 📊 GitHub Overview
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/AnujDikshit?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/github/stars/AnujDikshit?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/github/repositories/AnujDikshit?label=Repositories&style=for-the-badge&logo=github&logoColor=white"/>
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=AnujDikshit&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+alt="GitHub Stats"/>
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujDikshit&layout=compact&hide_border=true&theme=github_dark"
+alt="Top Languages"/>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com?user=AnujDikshit&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"/>
 
 </div>
 
-<br/>
+---
+
+# 🐍 Contribution Activity
 
 <div align="center">
 
-### 📌 GitHub Activity
-
-**35+ Contributions**
-
-**Building • Learning • Improving**
+<img
+src="https://raw.githubusercontent.com/AnujDikshit/AnujDikshit/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"/>
 
 </div>
-
-> Your complete contribution graph is automatically displayed by GitHub on your profile page.
 
 ---
 
@@ -169,31 +189,19 @@ I'm a **BCA Data Science & AI student** focused on building practical solutions 
 
 <div align="center">
 
-**🐍 Python**
-
-↓
-
-**🗄️ Advanced SQL**
-
-↓
-
-**📊 Data Analytics**
-
-↓
-
-**📐 Statistics**
-
-↓
-
-**🤖 Machine Learning**
-
-↓
-
-**🚀 Real-World Projects**
-
-↓
-
-**💼 Data Analyst / ML Engineer**
+**Python**  
+↓  
+**Advanced SQL**  
+↓  
+**Data Analytics**  
+↓  
+**Statistics**  
+↓  
+**Machine Learning**  
+↓  
+**Real-World Projects**  
+↓  
+**Data Analyst / ML Engineer 🚀**
 
 </div>
 
@@ -213,7 +221,7 @@ I'm a **BCA Data Science & AI student** focused on building practical solutions 
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -223,10 +231,6 @@ I'm a **BCA Data Science & AI student** focused on building practical solutions 
 
 <a href="https://www.linkedin.com/in/anujdikshit/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0A7EA4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
