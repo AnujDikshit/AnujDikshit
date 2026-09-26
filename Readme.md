@@ -99,58 +99,6 @@ I'm a **BCA Data Science & AI student** focused on building practical solutions 
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛒 Customer Shopping Behavior Analysis
-
-> End-to-end data analytics project focused on understanding customer purchasing behavior and generating business insights.
-
-**Tech:** Python • SQL • PostgreSQL • EDA • Power BI
-
-🔗 [View Project](https://github.com/AnujDikshit/Customer-Shopping-Behavior-Analysis)
-
----
-
-### 🌸 Iris Flower Classification
-
-> Machine Learning project for classifying Iris flower species using supervised learning techniques.
-
-**Tech:** Python • Pandas • NumPy • Scikit-Learn • Jupyter Notebook
-
-🔗 [View Project](https://github.com/AnujDikshit/model-iris-classification)
-
----
-
-### 📊 IBM Cognos Analytics
-
-> Business Intelligence project focused on analyzing data, identifying trends and presenting meaningful insights.
-
-**Tech:** IBM Cognos • Data Visualization • Business Intelligence
-
-🔗 [View Project](https://github.com/AnujDikshit/IBM_cognos_project)
-
----
-
-### 🔒 Habit Lock
-
-> Productivity application designed to reduce digital distractions and encourage better habits.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/AnujDikshit/habit-lock)
-
----
-
-### 💻 Application by Quntam Coders
-
-> Application development project created as part of an IBM-focused project.
-
-**Tech:** Application Development
-
-🔗 [View Project](https://github.com/AnujDikshit/application_by_quntam_coders)
-
----
-
 # 📈 GitHub Analytics
 
 <div align="center">
