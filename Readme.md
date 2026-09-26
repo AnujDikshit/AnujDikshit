@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA Data Science & AI student** focused on building practical solutions using **Data Analytics, Machine Learning and AI**.
+I'm a **Data Science & AI student** focused on building practical solutions using **Data Analytics, Machine Learning and AI**.
 
 - 📊 Transforming raw data into meaningful insights
 - 🐍 Building analytical workflows with Python
@@ -116,18 +116,6 @@ alt="Top Languages"/>
 <img
 src="https://streak-stats.demolab.com?user=AnujDikshit&theme=github-dark-blue&hide_border=true"
 alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/AnujDikshit/AnujDikshit/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"/>
 
 </div>
 
