@@ -99,28 +99,6 @@ I'm a **Data Science & AI student** focused on building practical solutions usin
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=AnujDikshit&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-alt="GitHub Stats"/>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujDikshit&layout=compact&hide_border=true&theme=github_dark"
-alt="Top Languages"/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=AnujDikshit&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"/>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 <div align="center">
