@@ -129,9 +129,6 @@ I'm a **Data Science & AI student** focused on building practical solutions usin
 - [ ] Improve Python & DSA
 - [ ] Master Power BI
 - [ ] Strengthen Statistics
-- [ ] Contribute to Open Source
-- [ ] Build a strong professional portfolio
-- [ ] Get a Data Analyst / ML Internship
 
 ---
 
