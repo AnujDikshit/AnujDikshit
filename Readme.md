@@ -121,17 +121,6 @@ I'm a **Data Science & AI student** focused on building practical solutions usin
 
 ---
 
-# 🎯 2026 Goals
-
-- [ ] Master Advanced SQL
-- [ ] Build 5+ Data Analytics Projects
-- [ ] Build 3+ Machine Learning Projects
-- [ ] Improve Python & DSA
-- [ ] Master Power BI
-- [ ] Strengthen Statistics
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
